@@ -1,10 +1,10 @@
 ### Operador curto de declaração
 
-- `:=` parece uma marmota(gopher) ou o punisher.
+- `:=` parece uma marmota (gopher) ou o punisher.
 - Uso: 
     - Tipagem automática.
     - Só pode repetir se houverem variáveis novas.
-    - != do assignment operator (operador de atribuioção).
+    - `!=` do assignment operator (operador de atribuição).
     - Só funciona dentro de codeblocks.
 - Terminologia:
     - [Keyword](https://go.dev/ref/spec#Keywords) são palavras reservadas que não podem ser usadas como identificadores.
@@ -14,5 +14,5 @@
     - Scope (abrangência)
         - package-level scope
 - Lição principal: 
-    - `:=` utilizado para criar novas variáveis, dentro de code blocks.
+    - `:=` utilizado para criar novas variáveis, dentro de codeblocks.
     - `=` para atribuir valores a variáveis já existentes. 
